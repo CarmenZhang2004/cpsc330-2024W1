@@ -30,4 +30,3 @@ linkify
 linkify-it-py
 jupyter-book
 jupytext
-ipywidgets
